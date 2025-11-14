@@ -1,4 +1,4 @@
-package org.tictactoe.observer;
+package org.TicTacToe.observer;
 
 public class ConsoleNotifier implements IObserver {
     @Override

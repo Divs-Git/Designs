@@ -1,7 +1,7 @@
-package org.tictactoe.rules;
+package org.TicTacToe.rules;
 
-import org.tictactoe.board.Board;
-import org.tictactoe.core.Symbol;
+import org.TicTacToe.board.Board;
+import org.TicTacToe.core.Symbol;
 
 public interface TicTacToeRules {
     boolean isValidMove(Board board, int row, int col);

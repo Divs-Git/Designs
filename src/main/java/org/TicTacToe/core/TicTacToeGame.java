@@ -1,10 +1,10 @@
-package org.tictactoe.core;
+package org.TicTacToe.core;
 
-import org.tictactoe.board.Board;
-import org.tictactoe.observer.IObserver;
-import org.tictactoe.player.TicTacToePlayer;
-import org.tictactoe.rules.StandardTicTacToeRules;
-import org.tictactoe.rules.TicTacToeRules;
+import org.TicTacToe.board.Board;
+import org.TicTacToe.observer.IObserver;
+import org.TicTacToe.player.TicTacToePlayer;
+import org.TicTacToe.rules.StandardTicTacToeRules;
+import org.TicTacToe.rules.TicTacToeRules;
 
 import java.util.*;
 

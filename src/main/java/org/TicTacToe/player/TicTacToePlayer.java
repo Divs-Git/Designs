@@ -1,7 +1,7 @@
-package org.tictactoe.player;
+package org.TicTacToe.player;
 
 import lombok.Getter;
-import org.tictactoe.core.Symbol;
+import org.TicTacToe.core.Symbol;
 
 @Getter
 public class TicTacToePlayer {

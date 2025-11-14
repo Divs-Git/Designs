@@ -1,10 +1,10 @@
-package org.tictactoe;
+package org.TicTacToe;
 
-import org.tictactoe.core.Symbol;
-import org.tictactoe.core.TicTacToeFactory;
-import org.tictactoe.core.TicTacToeGame;
-import org.tictactoe.observer.ConsoleNotifier;
-import org.tictactoe.player.TicTacToePlayer;
+import org.TicTacToe.core.Symbol;
+import org.TicTacToe.core.TicTacToeFactory;
+import org.TicTacToe.core.TicTacToeGame;
+import org.TicTacToe.observer.ConsoleNotifier;
+import org.TicTacToe.player.TicTacToePlayer;
 
 import java.util.Scanner;
 

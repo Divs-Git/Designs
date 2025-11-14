@@ -1,7 +1,7 @@
-package org.tictactoe.board;
+package org.TicTacToe.board;
 
 import lombok.Getter;
-import org.tictactoe.core.Symbol;
+import org.TicTacToe.core.Symbol;
 
 @Getter
 public class Board {

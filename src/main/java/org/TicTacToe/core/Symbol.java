@@ -1,4 +1,4 @@
-package org.tictactoe.core;
+package org.TicTacToe.core;
 
 import lombok.Data;
 import lombok.ToString;
